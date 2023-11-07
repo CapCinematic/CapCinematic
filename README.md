@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CapCinematic
 - 👀 I’m interested in movies, music and longboarding.🎬-🎼-🛹
-- 🌱 I’m currently learning everything Turing has to offer! 😁✌🏾
-- 💞️ I’m looking to collaborating on any and everything that can help us grow as a team and comunnity.
+- 🌱 I have learned everything about FE developments that Turing has to offer! 😁✌🏾
+- 💞️ I’m looking to collaborate on any and everything that can help us grow as a team and community.
 - 📫 How to reach me: Slack or email is your best bet!
 
 <!---
