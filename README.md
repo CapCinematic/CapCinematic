@@ -1,6 +1,4 @@
-<center>
-  ![MasterHead](https://cdn.pixabay.com/animation/2023/01/17/08/04/08-04-28-724_512.gif)
-</center>
+![MasterHead](https://i.pinimg.com/originals/dc/90/20/dc90205b447381c491dddd67389ae55a.gif)![Champloo](https://i.pinimg.com/originals/e0/74/cd/e074cd8ffd97e9d5fdb35d544db8036a.gif)
 <h1 align="center">Hi 👋, I'm @capcinematic Isaiah Richardson</h1>
 <h3 align="center">I'm a fun loving Software Developer from Denver.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/dragon-ball-z-goku-warm-up-piunlli97jndx6wg.gif">
